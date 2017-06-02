@@ -1,3 +1,4 @@
+![cutepinkfast](PIX/cutepinkfast.jpg)
 # Poetry of Programming - Puzzle Based Introduction to Functional Programming
 
 This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with college/high school algebra background. 
