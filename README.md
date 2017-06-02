@@ -2,6 +2,8 @@
 
 This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with college/high school algebra background. 
 
+[Poetry of Programming PDF](PoP.pdf)
+
 These notes are being written for the MAT245 course
 at Akita International University in Japan. The content is not complete and stable yet, but each version is
 meant to be consistent and thus usable for self-study.
