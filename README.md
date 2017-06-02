@@ -1,6 +1,6 @@
 # Poetry of Programming - Puzzle Based Introduction to Functional Programming
 
-This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with college/high school algebra background. 
+This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with college/high school algebra background. The course only discusses the functional core of the language. 
 
 [Poetry of Programming PDF](PoP.pdf)
 
