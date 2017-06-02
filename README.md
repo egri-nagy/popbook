@@ -1,4 +1,3 @@
-![cutepinkfast](PIX/cutepinkfast.jpg)
 # Poetry of Programming - Puzzle Based Introduction to Functional Programming
 
 This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with college/high school algebra background. 
@@ -11,6 +10,9 @@ meant to be consistent and thus usable for self-study.
 Comments are welcome, when reporting errors please
 specify the version number.
 
+[ASSIGNMENTS](assignments.md)
+
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
 [Attila Egri-Nagy](www.egri-nagy.hu)
+![cutepinkfast](PIX/cutepinkfast.jpg)
