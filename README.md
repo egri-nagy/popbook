@@ -14,6 +14,6 @@ specify the version number.
 
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
-[Attila Egri-Nagy](www.egri-nagy.hu)
+[Attila Egri-Nagy](http://www.egri-nagy.hu)
 
 ![cutepinkfast](PIX/cutepinkfast.jpg)
