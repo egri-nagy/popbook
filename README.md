@@ -10,7 +10,7 @@ meant to be consistent and thus usable for self-study.
 Comments are welcome, when reporting errors please
 specify the version number.
 
-[ASSIGNMENTS](assignments.md)
+[PROBLEMS](problems.md)
 
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
