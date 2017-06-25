@@ -13,3 +13,5 @@
 [Practice problems](ASSIGNMENTS/problems.pdf)
 
 [Mini projects](ASSIGNMENTS/projects.pdf)
+
+[Sample test](ASSIGNMENTS/test_01.pdf)
