@@ -12,6 +12,8 @@ specify the version number.
 
 [PROBLEMS](problems.md)
 
+[How To Code It? - guidelines for solving practise problems](HowToCodeIt.pdf)
+
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
 [Attila Egri-Nagy](http://www.egri-nagy.hu)
