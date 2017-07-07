@@ -9,6 +9,7 @@
 7. [Numbers](ASSIGNMENTS/07_numbers.pdf)
 8. [Permutations](ASSIGNMENTS/08_permutations.pdf)
 9. [Arithmetic Puzzle](ASSIGNMENTS/09_arithmetic_puzzle.pdf)
+10. [Reduce](ASSIGNMENTS/10_reduce.pdf)
 
 [Practice problems](ASSIGNMENTS/problems.pdf)
 
