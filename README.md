@@ -1,20 +1,22 @@
 # Poetry of Programming - Puzzle Based Introduction to Functional Programming
 
-This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with college/high school algebra background. The course only discusses the functional core of the language. 
+[The course will be presented at the 2017 Clojure/conj!](http://2017.clojure-conj.org/poetry-of-programming/)
+
+This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with some college/high school algebra background. The course only discusses the functional core of the language. 
 
 [Poetry of Programming Book PDF](PoP.pdf)
-
-[Reading Exercises PDF](PoP_reading_xs.pdf)
 
 These notes are being written for the MAT245 course
 at [Akita International University](http://www.aiu.ac.jp) in Japan. The content is not complete and stable yet, but each version is
 meant to be consistent and thus usable for self-study.
-Comments are welcome, when reporting errors please
+Comments are welcome! When reporting errors please
 specify the version number.
 
-[PROBLEMS](problems.md)
+[Reading Exercises PDF](PoP_reading_xs.pdf)
 
-[How To Code It? - guidelines for solving practise problems](HowToCodeIt.pdf)
+[Practice problems](problems.md)
+
+[How To Code It? - guidelines for solving practise problems PDF](HowToCodeIt.pdf)
 
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
