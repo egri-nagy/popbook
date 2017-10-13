@@ -1,6 +1,6 @@
 # Poetry of Programming - Puzzle Based Introduction to Functional Programming
 
-[The course will be presented at the 2017 Clojure/conj!](http://2017.clojure-conj.org/poetry-of-programming/)
+The course was presented at the 2017 Clojure/conj! [abstract](http://2017.clojure-conj.org/poetry-of-programming/) [video](https://www.youtube.com/watch?v=XRjPnuPv6xo)
 
 This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with some college/high school algebra background. The course only discusses the functional core of the language. 
 
