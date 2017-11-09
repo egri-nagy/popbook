@@ -12,6 +12,8 @@ meant to be consistent and thus usable for self-study.
 Comments are welcome! When reporting errors please
 specify the version number.
 
+Try the language online: [replumb(cljs)](http://clojurescript.io/) [reepl(cljs)](https://jaredforsyth.com/reepl/) [repl.it(clj)](https://repl.it/languages/clojure)
+
 [Reading Exercises PDF](PoP_reading_xs.pdf)
 
 [Practice problems](problems.md)
