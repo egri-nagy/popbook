@@ -24,7 +24,13 @@ This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licens
 
 [Attila Egri-Nagy](http://www.egri-nagy.hu)
 
-# Course Introduction
+# Course Introduction 2017/18 Winter
+
+![snowedin](PIX/snowedin.jpg)
+
+The purpose of the course is to experience the joy of computer programming. Serious fun that can easily be turned into an important skill in career planning.
+
+# Course Introduction 2017 Spring
 
 This course aims to share the empowering and fun experience of writing computer programs. It is a gentle introduction to functional programming in [Clojure](https://clojure.org/), which is based on very simple mathematical ideas and it is currently gaining widespread adoption in software industry. According to stackoverflow, it also appears to be [well-paid](https://stackoverflow.com/insights/survey/2017#technology-top-paying-technologies-worldwide).
 
