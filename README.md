@@ -1,8 +1,8 @@
 # Poetry of Programming - Puzzle Based Introduction to Functional Programming
 
-**The course was presented at the [2017 Clojure/conj](http://2017.clojure-conj.org/) conference!** Here is the [abstract](http://2017.clojure-conj.org/poetry-of-programming/) of the talk and its  [recorded video](https://www.youtube.com/watch?v=XRjPnuPv6xo).
+**The course was presented at the [2017 Clojure/conj](http://2017.clojure-conj.org/) conference!** Here are  the [slides](TALKS/2017_Clojure_conj_ENA.pdf), the [abstract](http://2017.clojure-conj.org/poetry-of-programming/),  and the  [recorded video](https://www.youtube.com/watch?v=XRjPnuPv6xo) of the talk.
 
-This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with some college/high school algebra background. The course only discusses the functional core of the language. 
+This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with some college/high school algebra background. The course only discusses the functional core of the language.
 
 [Poetry of Programming Book PDF](PoP.pdf)
 
@@ -30,7 +30,7 @@ This course aims to share the empowering and fun experience of writing computer 
 
 Is this course for you? First of all, you do NOT need any previous programming experience. So if you are interested, then YES.
 
-In particular, Poetry of Programming is for you if you agree with AT LEAST ONE of the following statements. 
+In particular, Poetry of Programming is for you if you agree with AT LEAST ONE of the following statements.
 
    1. You like puzzles but you do not find solving equations too exciting (or you do).
    2. You don't like math but you are happy to give it one more chance.
