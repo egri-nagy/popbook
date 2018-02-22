@@ -2,23 +2,23 @@
 
 **The course was presented at the [2017 Clojure/conj](http://2017.clojure-conj.org/) conference!** Here are  the [slides](TALKS/2017_Clojure_conj_ENA.pdf), the [abstract](http://2017.clojure-conj.org/poetry-of-programming/),  and the  [recorded video](https://www.youtube.com/watch?v=XRjPnuPv6xo) of the talk.
 
-This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with some college/high school algebra background. The course only discusses the functional core of the language.
-
-[Poetry of Programming Book PDF](PoP.pdf)
-
-These notes are being written for the MAT245 course
-at [Akita International University](http://www.aiu.ac.jp) in Japan. The content is not complete and stable yet, but each version is
-meant to be consistent and thus usable for self-study.
-Comments are welcome! When reporting errors please
-specify the version number.
+This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with some college/high school algebra background. The course discusses the functional core of the language. It is offered at [Akita International University](http://www.aiu.ac.jp) in Japan (MAT245).
 
 Try the language online: [replumb(cljs)](http://clojurescript.io/) [reepl(cljs)](https://jaredforsyth.com/reepl/) [repl.it(clj)](https://repl.it/languages/clojure)
 
-[Reading Exercises PDF](PoP_reading_xs.pdf)
+## Textbook
+[Poetry of Programming Book](PoP.pdf)
 
-[Practice problems](problems.md)
+These tutorial notes usable for self-study. Comments are welcome! When reporting errors please
+specify the version number.
 
 [How To Code It? - guidelines for solving practise problems PDF](HowToCodeIt.pdf)
+
+## Exercises and assessment
+
+[Assignments](problems.md) are for lab work. In case of running out of time, they become homework problems.
+
+[Reading Exercises](PoP_reading_xs.pdf) are for traditional paper-based exams. The task is to determine what the one-liners evaluate to.
 
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
