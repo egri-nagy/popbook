@@ -1,18 +1,14 @@
 # Assignment Problems in Clojure
 
-1. [Simple functions](ASSIGNMENTS/01_Simple_Functions.pdf)
-2. [Number sequences, map and filter](ASSIGNMENTS/02_number_sequences_map_filter.pdf)
-3. [Collatz conjecture](ASSIGNMENTS/03_collatz.pdf)
-4. [Strings](ASSIGNMENTS/04_strings.pdf)
-5. [Characters](ASSIGNMENTS/05_characters.pdf)
-6. [Hash-map](ASSIGNMENTS/06_hashmap.pdf)
-7. [Numbers](ASSIGNMENTS/07_numbers.pdf)
-8. [Permutations](ASSIGNMENTS/08_permutations.pdf)
-9. [Arithmetic Puzzle](ASSIGNMENTS/09_arithmetic_puzzle.pdf)
-10. [Reduce](ASSIGNMENTS/10_reduce.pdf)
-
-[Practice problems](ASSIGNMENTS/problems.pdf)
-
-[Mini projects](ASSIGNMENTS/projects.pdf)
-
-[Sample test](ASSIGNMENTS/test_01.pdf)
+0. [00_arithmetic.pdf](ASSIGNMENTS/00_arithmetic.pdf)
+1. [01_strings_lists_vectors.pdf](ASSIGNMENTS/01_strings_lists_vectors.pdf)
+2. [02_simple_functions.pdf](ASSIGNMENTS/02_simple_functions.pdf)
+3. [03_predicate_functions.pdf](ASSIGNMENTS/03_predicate_functions.pdf)
+4. [04_map_filter.pdf](ASSIGNMENTS/04_map_filter.pdf)
+5. [05_logic.pdf](ASSIGNMENTS/05_logic.pdf)
+6. [06_reduce.pdf](ASSIGNMENTS/06_reduce.pdf)
+7. [07_hashmap_hashset.pdf](ASSIGNMENTS/07_hashmap_hashset.pdf)
+8. [08_collatz.pdf](ASSIGNMENTS/08_collatz.pdf)
+9. [09_numbers.pdf](ASSIGNMENTS/09_numbers.pdf)
+10. [10_permutations.pdf](ASSIGNMENTS/10_permutations.pdf)
+11. [11_arithmetic_puzzle.pdf](ASSIGNMENTS/11_arithmetic_puzzle.pdf)
