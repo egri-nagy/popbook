@@ -9,16 +9,20 @@ Try the language online: [replumb(cljs)](http://clojurescript.io/) [reepl(cljs)]
 ## Textbook
 [Poetry of Programming Book](PoP.pdf)
 
-These tutorial notes usable for self-study. Comments are welcome! When reporting errors please
-specify the version number.
+Comments are welcome! When reporting errors please
+specify the version number. These tutorial notes usable for self-study. However, it is expected that at some point one will face difficulties in the learning process. Here some guidelines for that situation.
 
-[How To Code It? - guidelines for solving practise problems PDF](HowToCodeIt.pdf)
+[How To Code It?](HowToCodeIt.pdf)
 
 ## Exercises and assessment
 
 [Assignments](problems.md) are for lab work. In case of running out of time, they become homework problems.
 
 [Reading Exercises](PoP_reading_xs.pdf) are for traditional paper-based exams. The task is to determine what the one-liners evaluate to.
+
+[Extra problems](problems.pdf)
+
+[Mini-projects](projects.pdf) require a bit more work than exercise problems.
 
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 
