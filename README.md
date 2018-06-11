@@ -20,6 +20,8 @@ specify the version number. These tutorial notes usable for self-study. However,
 
 [Reading Exercises](PoP_reading_xs.pdf) are for traditional paper-based exams. The task is to determine what the one-liners evaluate to.
 
+[Coding exercises](coding_exercises.pdf) are for practising how to turn ideas into source code. Plans are given, the task is to express them as Clojure code.
+
 [Extra problems](problems.pdf)
 
 [Mini-projects](projects.pdf) require a bit more work than exercise problems.
