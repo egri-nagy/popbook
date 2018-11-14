@@ -28,6 +28,11 @@ Conference presentations
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 [Attila Egri-Nagy](http://www.egri-nagy.hu) [@EgriNagy](https://twitter.com/EgriNagy)
 
+# 2018 Spring
+
+![clojurepath](PIX/clojurepath.jpg)
+
+
 # Course Introduction 2017/18 Winter
 
 ![snowedin](PIX/snowedin.jpg)
