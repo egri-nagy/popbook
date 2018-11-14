@@ -1,34 +1,32 @@
 # Poetry of Programming - Puzzle Based Introduction to Functional Programming
 
-**The course was presented at the [2017 Clojure/conj](http://2017.clojure-conj.org/) conference!** Here are  the [slides](TALKS/2017_Clojure_conj_ENA.pdf), the [abstract](http://2017.clojure-conj.org/poetry-of-programming/),  and the  [recorded video](https://www.youtube.com/watch?v=XRjPnuPv6xo) of the talk.
-
 This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with some college/high school algebra background. The course discusses the functional core of the language. It is offered at [Akita International University](http://www.aiu.ac.jp) in Japan (MAT245).
+
+FOR STUDENTS:
+* [Flyer](PoPflyer.pdf) for advertising the course
+* [Syllabus](PoP_syllabus.pdf) detailed description, schedule, assessment, related courses
+* [Textbook](PoP.pdf) suitable for self-study
+* [How To Code It?](HowToCodeIt.pdf) guidelines for computational problem solving
+* [Assignments](problems.md) are for lab work. In case of running out of time, they become homework problems.
+* [Reading Exercises](PoP_reading_xs.pdf) are for traditional paper-based exams. The task is to determine what the one-liners evaluate to.
+ * [Coding exercises](coding_exercises.pdf) are for practising how to turn ideas into source code. Plans are given, the task is to express them as Clojure code.
+* [Extra problems](problems.pdf)
+* [Mini-projects](projects.pdf) require a bit more work than exercise problems.
 
 Try the language online: [replumb(cljs)](http://clojurescript.io/) [reepl(cljs)](https://jaredforsyth.com/reepl/) [repl.it(clj)](https://repl.it/languages/clojure)
 
-## Textbook
-[Poetry of Programming Book](PoP.pdf)
+FOR SOFTWARE ENGINEERS, COMPUTER SCIENCE EDUCATION RESEARCHERS
 
-Comments are welcome! When reporting errors please
-specify the version number. These tutorial notes usable for self-study. However, it is expected that at some point one will face difficulties in the learning process. Here some guidelines for that situation.
+Conference presentations
 
-[How To Code It?](HowToCodeIt.pdf)
+* **[2017 Clojure/conj](http://2017.clojure-conj.org/)** [slides](TALKS/2017_Clojure_conj_ENA.pdf), [abstract](http://2017.clojure-conj.org/poetry-of-programming/),  [recorded video](https://www.youtube.com/watch?v=XRjPnuPv6xo).
+* **[2018 ClojuTRE](https://clojutre.org/2018/)** [slides](http://egri-nagy.hu/pdf/2018ClojuTREena.pdf), [recorded video](https://youtu.be/-yGHsXSgYdg)
 
-## Exercises and assessment
 
-[Assignments](problems.md) are for lab work. In case of running out of time, they become homework problems.
 
-[Reading Exercises](PoP_reading_xs.pdf) are for traditional paper-based exams. The task is to determine what the one-liners evaluate to.
-
-[Coding exercises](coding_exercises.pdf) are for practising how to turn ideas into source code. Plans are given, the task is to express them as Clojure code.
-
-[Extra problems](problems.pdf)
-
-[Mini-projects](projects.pdf) require a bit more work than exercise problems.
 
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
-
-[Attila Egri-Nagy](http://www.egri-nagy.hu)
+[Attila Egri-Nagy](http://www.egri-nagy.hu) [@EgriNagy](https://twitter.com/EgriNagy)
 
 # Course Introduction 2017/18 Winter
 
