@@ -20,13 +20,13 @@ FOR SOFTWARE ENGINEERS, COMPUTER SCIENCE EDUCATION RESEARCHERS
 Conference presentations
 
 * **[2017 Clojure/conj](http://2017.clojure-conj.org/)** [slides](TALKS/2017_Clojure_conj_ENA.pdf), [abstract](http://2017.clojure-conj.org/poetry-of-programming/),  [recorded video](https://www.youtube.com/watch?v=XRjPnuPv6xo).
+* **[2018 ClojuTRE](https://clojutre.org/2018/)** [slides](http://egri-nagy.hu/pdf/2018ClojuTREena.pdf), [recorded video](https://youtu.be/-yGHsXSgYdg)
 
 
 
 
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
-
-[Attila Egri-Nagy](http://www.egri-nagy.hu)
+[Attila Egri-Nagy](http://www.egri-nagy.hu) [@EgriNagy](https://twitter.com/EgriNagy)
 
 # Course Introduction 2017/18 Winter
 
