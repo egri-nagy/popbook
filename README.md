@@ -1,6 +1,9 @@
 # Poetry of Programming - Puzzle Based Introduction to Functional Programming
 
-This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with some college/high school algebra background. The course discusses the functional core of the language. It is offered at [Akita International University](http://www.aiu.ac.jp) in Japan (MAT245).
+This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with some college/high school algebra background. The course discusses the functional core of the language. It is offered at [Akita International University](http://www.aiu.ac.jp) in Japan (MAT245). It is designed for
+1. experiencing the joy of computer programming,
+2. seeing mathematical ideas in use,
+3. getting fundamental and powerful programming skills, that could kickstart a serious IT career.    
 
 FOR STUDENTS:
 * [Flyer](PoPflyer.pdf) for advertising the course
