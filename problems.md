@@ -12,3 +12,6 @@
 9. [More about numbers](ASSIGNMENTS/09_numbers.pdf)
 10. [Recursion: permutations](ASSIGNMENTS/10_permutations.pdf)
 11. [An arithmetic puzzle](ASSIGNMENTS/11_arithmetic_puzzle.pdf)
+
+**Bonus** Go to [Cube Composer](https://david-peter.de/cube-composer/) and check what is the level you can reach.
+It is a game, but you will see later in the course that the game's underlying concepts are the key principles of functional collection processing.
