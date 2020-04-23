@@ -3,7 +3,7 @@
 This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with some college/high school algebra background. The course discusses the functional core of the language. It is offered at [Akita International University](http://www.aiu.ac.jp) in Japan (MAT245). It is designed for
 1. experiencing the joy of computer programming,
 2. seeing mathematical ideas in use,
-3. getting fundamental and powerful programming skills, that could kickstart a serious IT career.    
+3. getting fundamental and powerful programming skills, that could kickstart a serious IT career.
 
 FOR STUDENTS:
 * [Flyer](PoPflyer.pdf) for advertising the course
@@ -30,6 +30,15 @@ Conference presentations
 
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 [Attila Egri-Nagy](http://www.egri-nagy.hu) [@EgriNagy](https://twitter.com/EgriNagy)
+
+# 2020 Spring
+
+![2020PoP](PIX/2020PoP.jpg)
+
+
+# 2019 Spring
+
+![2019PoP](PIX/2019PoP.jpg)
 
 # 2018 Spring
 
