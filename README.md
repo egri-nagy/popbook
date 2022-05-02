@@ -1,6 +1,6 @@
 # Poetry of Programming - Puzzle Based Introduction to Functional Programming
 
-This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with some college/high school algebra background. The course discusses the functional core of the language. It is offered at [Akita International University](http://www.aiu.ac.jp) in Japan (MAT245). It is designed for
+This is a [Clojure](http://clojure.org) programming course designed for non-programmers, in particular for Liberal Arts students with some college/high school algebra background. The course discusses the functional core of the language. It is offered at [Akita International University](http://www.aiu.ac.jp) in Japan (MAT245 2017-2020, MAT340 2021-), also at [UCU Open University](https://open.ucu.edu.ua/) as AS-009. It is designed for
 1. experiencing the joy of computer programming,
 2. seeing mathematical ideas in use,
 3. getting fundamental and powerful programming skills, that could kickstart a serious IT career.
@@ -11,7 +11,6 @@ FOR STUDENTS:
 * [Flyer](PoPflyer.pdf) for advertising the course
 * [Syllabus](PoP_syllabus.pdf) detailed description, schedule, assessment, related courses
 * [How To Code It?](HowToCodeIt.pdf) guidelines for computational problem solving
-* [Assignments](problems.md) are for lab work. In case of running out of time, they become homework problems.
 * [Reading Exercises](PoP_reading_xs.pdf) are for traditional paper-based exams. The task is to determine what the one-liners evaluate to.
  * [Coding exercises](coding_exercises.pdf) are for practising how to turn ideas into source code. Plans are given, the task is to express them as Clojure code.
 * [Extra problems](problems.pdf)
@@ -27,11 +26,13 @@ Conference presentations
 * **[2018 ClojuTRE](https://clojutre.org/2018/)** [slides](http://egri-nagy.hu/pdf/2018ClojuTREena.pdf), [recorded video](https://youtu.be/-yGHsXSgYdg)
 
 
-
-
 This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en).
 [Attila Egri-Nagy](http://www.egri-nagy.hu) [@EgriNagy](https://twitter.com/EgriNagy)
 
+# 2022 Spring
+back to classroom + online in Ukraine
+# 2021 Spring
+still online
 # 2020 Spring
 
 ![2020PoP](PIX/2020PoP.jpg)
