@@ -8,13 +8,13 @@ This is a [Clojure](http://clojure.org) programming course designed for non-prog
 FOR STUDENTS:
 * [TEXTBOOK](PoP.pdf) suitable for self-study
 * [RECORDED LECTURES](https://www.youtube.com/playlist?list=PLI-mrGTUXmHXeKhy6UGdDxIKwM8L4MTbq) YouTube channel
-* [Flyer](PoPflyer.pdf) for advertising the course
+* [Project Topics](projects.pdf) require a bit more work than exercise problems.
+* [Reading Exercises (EXAM)](PoP_reading_xs.pdf) are for traditional paper-based exams. The task is to determine what the one-liners evaluate to.
 * [Syllabus](PoP_syllabus.pdf) detailed description, schedule, assessment, related courses
 * [How To Code It?](HowToCodeIt.pdf) guidelines for computational problem solving
-* [Reading Exercises](PoP_reading_xs.pdf) are for traditional paper-based exams. The task is to determine what the one-liners evaluate to.
- * [Coding exercises](coding_exercises.pdf) are for practising how to turn ideas into source code. Plans are given, the task is to express them as Clojure code.
+* [Coding exercises](coding_exercises.pdf) are for practising how to turn ideas into source code. Plans are given, the task is to express them as Clojure code.
 * [Extra problems](problems.pdf)
-* [Mini-projects](projects.pdf) require a bit more work than exercise problems.
+* [Flyer](PoPflyer.pdf) for advertising the course
 
 Try the language online: [maria(cljs)](https://www.maria.cloud/) [repl.it(clj)](https://repl.it/languages/clojure)
 
